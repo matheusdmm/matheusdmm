@@ -14,8 +14,6 @@ No meio disso tudo, também faço uns projetos pessoais, mas na maioria dos caso
 ## Combustivel de foguete? 🚀
 Tô sempre procurando por coisas novas para aprender e/ou aprimorar, ou seja, ando sempre lendo e escavando coisas interessantes pelos cantos que mexam algumas engrenagens dentro do meu cérebro hahaha. Ultimamente Hashing](https://github.com/matheusdmm/Hashc)l, [Malloc](https://github.com/matheusdmm/Malloc) e os mergulhos de cabeça no submundo do [Arch linux](https://archlinux.org) andam atiçando bastante o meu cérebro.
 
-<iframe src="https://giphy.com/embed/yAOjunY81Trjy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy"></a></p>
-
 ## Linguagens 🌟
 * C 
 * C++
@@ -30,5 +28,3 @@ Tô sempre procurando por coisas novas para aprender e/ou aprimorar, ou seja, an
 
 # Você também pode me encontrar aqui:
 [![Last.fm Badge](https://img.shields.io/badge/-matheusdmm-red?style=flat&logo=Last.fm&logoColor=white&link=https://www.last.fm/user/matheusdmm/)](https://www.last.fm/user/matheusdmm) [![Instagram Badge](https://img.shields.io/badge/-@mathcartney-brown?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mathcartney/)](https://instagram.com/mathcartney) [![spotify Badge](https://img.shields.io/badge/-@matheusdmm-green?style=flat&logo=spotify&logoColor=white&link=https://instagram.com/matheusdmm/)](https://open.spotify.com/user/matheusdmm?si=q60wFjSJRpKGznx514kNxQ)
-
-<iframe src="https://giphy.com/embed/128Ygie2wLdH5m" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m"></a></p>
