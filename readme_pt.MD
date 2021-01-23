@@ -1,4 +1,4 @@
-Read in [English]() || [Portuguese]()
+Leia em [English](https://github.com/matheusdmm/matheusdmm/blob/main/readme.md) || [Portuguese](https://github.com/matheusdmm/matheusdmm/blob/main/readme_pt.MD)
 # Olar, Matheus aqui 👋
 
 No momento sou um analista de sistemas para uma empresa local, em Santa Cruz do SUl 🌁. A maior parte dos trampos são feitos em GO! para rodar no servidor.
