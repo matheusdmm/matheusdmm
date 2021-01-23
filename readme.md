@@ -1,4 +1,4 @@
-Read in [English]() || [Portuguese]()
+Read in [English](https://github.com/matheusdmm/matheusdmm/blob/main/readme.md) || [Portuguese](https://github.com/matheusdmm/matheusdmm/blob/main/readme_pt.MD)
 # Hello, I'm Matheus 👋
 
 I'm currently a system analist for a local company based in Santa Cruz do Sul 🌁. The majority of the stuff that I'm working on is server based using GO!
