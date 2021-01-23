@@ -14,8 +14,6 @@ In the meantime I work on some side projects mostly to learn and keep myself up 
 ## Rocket fuel? 🚀
 I'm always looking for new things to learn and/or find, that is, I always researching or reading about things that I find interesting and can possibly move the gears inside my brain. Lately [Hashing](https://github.com/matheusdmm/Hashc) and [Malloc](https://github.com/matheusdmm/Malloc) and diving deep into the [Arch linux](https://archlinux.org) submund are driving these gears.
 
-<iframe src="https://giphy.com/embed/yAOjunY81Trjy" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-infinite-endless-yAOjunY81Trjy"></a></p>
-
 ## Languages 🌟
 * C 
 * C++
@@ -30,5 +28,3 @@ I'm always looking for new things to learn and/or find, that is, I always resear
 
 # You can also find me in:
 [![Last.fm Badge](https://img.shields.io/badge/-matheusdmm-red?style=flat&logo=Last.fm&logoColor=white&link=https://www.last.fm/user/matheusdmm/)](https://www.last.fm/user/matheusdmm) [![Instagram Badge](https://img.shields.io/badge/-@mathcartney-brown?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mathcartney/)](https://instagram.com/mathcartney) [![spotify Badge](https://img.shields.io/badge/-@matheusdmm-green?style=flat&logo=spotify&logoColor=white&link=https://instagram.com/matheusdmm/)](https://open.spotify.com/user/matheusdmm?si=q60wFjSJRpKGznx514kNxQ)
-
-<iframe src="https://giphy.com/embed/128Ygie2wLdH5m" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-reality-mind-128Ygie2wLdH5m"></a></p>
