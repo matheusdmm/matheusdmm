@@ -1,11 +1,11 @@
 Leia em [English](https://github.com/matheusdmm/matheusdmm/blob/main/readme.md) || [Portuguese](https://github.com/matheusdmm/matheusdmm/blob/main/readme_pt.MD)
 # Olar, Matheus aqui 👋
 
-No momento sou um analista de sistemas para uma empresa local, em Santa Cruz do SUl 🌁. A maior parte dos trampos são feitos em GO! para rodar no servidor.
+No momento dou aulas de programação no [SENAI](https://www.portaldaindustria.com.br/senai/) e também sou um analista de sistemas para uma empresa local, em Santa Cruz do SUl 🌁. A maior parte dos trampos lá são feitos em GO! para rodar no servidor e na sala de aula utilizo C#/.net.
 
-No meio disso tudo, também faço uns projetos pessoais, mas na maioria dos casos para aprender mais sobre algo e me manter por dentro dos rolês. Também escuto bastante música (um nerd gigantescamente enorme de música e aspirante a multi instrumentista) e as vezes também penso em construir um foguete estilo McGuyver anos 90 pra sair da Terra.
+No meio disso tudo, também faço uns projetos pessoais, mas na maioria dos casos tudo é para aprender mais sobre algo e me manter por dentro dos rolês. Também escuto bastante música (um nerd gigantescamente enorme de música e aspirante a multi instrumentista) e as vezes também penso em construir um foguete estilo McGuyver anos 90 pra sair da Terra.
 
-## O que mais parsa? ⚡️
+## O que mais parça? ⚡️
 * Cryptograpfia é um dos meis maiores interesses.
 * Otimização de código é outro dos meus interesses.
 * Matemática é massa, mas só depois que você sai da escola.
