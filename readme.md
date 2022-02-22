@@ -1,9 +1,9 @@
 Read in [English](https://github.com/matheusdmm/matheusdmm/blob/main/readme.md) || [Portuguese](https://github.com/matheusdmm/matheusdmm/blob/main/readme_pt.MD)
 # Hello, I'm Matheus 👋
 
-I'm currently a system analist for a local company based in Santa Cruz do Sul 🌁. The majority of the stuff that I'm working on is server based using GO!
+I'm currently teaching Programming at [SENAI](https://www.portaldaindustria.com.br/senai/) and I'm also a system analist for a local company based in Santa Cruz do Sul 🌁. The majority of the stuff that I'm working on there is server based using GO and at SENAI I'm teaching C#/.net!
 
-In the meantime I work on some side projects mostly to learn and keep myself up to date, listen to some songs (huge music nerd and multi-instrumentist aspirant) and very often thinks about leaving this planet with a homemade McGuyver style rocket.
+In the meantime I work on some side projects, mostly to learn and keep myself up to date, listen to some songs (huge music nerd and multi-instrumentist aspirant) aaand very often thinking about leaving this planet with a homemade McGuyver style rocket.
 
 ## What else? ⚡️
 * Cryptography is one of my main interests.
