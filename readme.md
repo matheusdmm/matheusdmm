@@ -1,7 +1,7 @@
 Read in [English](https://github.com/matheusdmm/matheusdmm/blob/main/readme.md) || [Portuguese](https://github.com/matheusdmm/matheusdmm/blob/main/readme_pt.MD)
 # Hello, I'm Matheus 👋
 
-I'm currently teaching Programming at [SENAI](https://www.portaldaindustria.com.br/senai/) and I'm also a system analist for a local company based in Santa Cruz do Sul 🌁. The majority of the stuff that I'm working on there is server based using GO and at SENAI I'm teaching C#/.net!
+I'm currently a project leader at [Philip Morris International](https://www.pmi.com/) and also a teaching Programming at [SENAI](https://www.portaldaindustria.com.br/senai/) 🌁. The majority of the stuff that I'm working on PMI is with Python and Javascript, at SENAI I'm teaching C#/.net and Javascript/NODE!
 
 In the meantime I work on some side projects, mostly to learn and keep myself up to date, listen to some songs (huge music nerd and multi-instrumentist aspirant) aaand very often thinking about leaving this planet with a homemade McGuyver style rocket.
 
@@ -19,6 +19,7 @@ I'm always looking for new things to learn and/or find, that is, I always resear
 * C++
 * Python (cool AF for math)
 * GO!
+* C#
 * Java
 * JavaScript
 
