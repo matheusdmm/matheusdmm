@@ -4,8 +4,7 @@ Project Leader at [Philip Morris International](https://www.pmi.com/), Ex front-
 
 In the meantime, I also work on some side projects, mostly to learn and keep myself interested in new things, listen to some songs (huge music nerd and multi-instrumentist aspirant) and professional outside of the box thinkerer.
 
-| <a href="https://github.com/matheusdmm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusdmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/matheusdmm/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdmm&layout=compact&langs_count=8&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![matheusdmm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdmm&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://github.com/matheusdmm"><img align="center" src="https://komarev.com/ghpvc/?username=matheusdmm&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square" alt="Anurag's github stats" /></a> <a href="https://github.com/matheusdmm/matheusdmm/blob/main/resume.pdf"><img align="center" src="https://img.shields.io/badge/-My Resume 📄-2D4E00?style=flat-square" /></a>
 
