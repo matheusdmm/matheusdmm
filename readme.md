@@ -4,20 +4,19 @@ Project Leader at [Philip Morris International](https://www.pmi.com/), Ex front-
 
 In the meantime, I also work on some side projects, mostly to learn and keep myself interested in new things, listen to some songs (huge music nerd and multi-instrumentist aspirant) and professional outside of the box thinkerer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdmm&theme=radical&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/matheusdmm?cardType=level&theme=gruvbox&fontFamily=JetBrains%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <a href="https://github.com/matheusdmm"><img align="center" src="https://komarev.com/ghpvc/?username=matheusdmm&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"/></a> <a href="https://github.com/matheusdmm/matheusdmm/blob/main/resume.pdf"><img align="center" src="https://img.shields.io/badge/-My Resume 📄-2D4E00?style=flat-square" /></a>
 
 ## What else? ⚡️
 
-- Cryptography is still one of my main interests.
-- Code optimization is also another of my main interests.
-- Math is pretty fun, when you're out of school.
-- Serverless functions and webapps which can be used everywhere became kinda of my new summer passion.
+- I've been playing D&D again and built some tools to make the life easier when using the 5.5E
+- Also there is an app for character sheet creation.
+- I tend to experiment a lot with different technologies, nice to keep things interesting.
 
 ## Rocket fuel? 🚀
 
-I'm always looking for new things to learn and/or find, that is, I always researching or reading about things that I find interesting and can possibly move the gears inside my brain. Lately [Hashing](https://github.com/matheusdmm/Hashc) and [Malloc](https://github.com/matheusdmm/Malloc) and diving deep into the [Arch linux](https://archlinux.org) submund are driving these gears.
+I'm always looking for new things to learn and/or find, that is, I always researching or reading about things that I find interesting and can possibly move the gears inside my brain.
 
 # You can also find me in:
 
