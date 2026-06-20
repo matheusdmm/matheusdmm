@@ -2,21 +2,23 @@
 
 Project Leader at [Philip Morris International](https://www.pmi.com/), Ex front-end at Bosch and professor at [SENAI](https://www.portaldaindustria.com.br/senai/) 🌁.
 
-In the meantime, I also work on some side projects, mostly to learn and keep myself interested in new things, listen to some songs (huge music nerd and multi-instrumentist aspirant) and professional outside of the box thinkerer.
+I build mostly in **TypeScript** — full-stack web apps, GraphQL microservices, and the occasional weird side project (a no-corporate-bullshit music platform, an RPG character sheet, a delivery system). When I want to think differently, I drop down a layer: **Rust** for concurrency, **C** for hashing and memory allocators, and Arch Linux for everything else.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/matheusdmm?cardType=level&fontFamily=Fira%20Code&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <a href="https://github.com/matheusdmm"><img align="center" src="https://komarev.com/ghpvc/?username=matheusdmm&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"/></a> <a href="https://github.com/matheusdmm/matheusdmm/blob/main/resume.pdf"><img align="center" src="https://img.shields.io/badge/-My Resume 📄-2D4E00?style=flat-square" /></a>
 
-## What else? ⚡️
+## What keeps the gears turning ⚡️
 
-- I've been playing D&D again and built some tools to make the life easier when using the 5.5E
-- Also there is an app for character sheet creation.
-- I tend to experiment a lot with different technologies, nice to keep things interesting.
+- **Cryptography** — still one of my main rabbit holes.
+- **Code optimization** — squeezing cycles is genuinely fun.
+- **Systems-level curiosity** — [Hashing](https://github.com/matheusdmm/Hashc), [Malloc](https://github.com/matheusdmm/Malloc), and deep dives into the [Arch Linux](https://archlinux.org) underworld.
+- **Serverless & web apps** — small things that run everywhere.
+- **Math** — way more fun once you're out of school.
 
-## Rocket fuel? 🚀
+## Outside the terminal 🎸
 
-I'm always looking for new things to learn and/or find, that is, I always researching or reading about things that I find interesting and can possibly move the gears inside my brain.
+Multi-instrumentalist aspirant, professional music nerd, and out-of-the-box thinker by trade.
 
 # You can also find me in:
 
